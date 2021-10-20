@@ -22,8 +22,8 @@ android {
 }
 sonarqube {
     properties {
-        property "sonar.projectKey", "cooperative0zero_Project"
-        property "sonar.organization", "cooperative0zero"
+        property "sonar.projectKey", "IlyaTrubchik_TEst"
+        property "sonar.organization", "ilyatrubchik-1"
         property "sonar.host.url", "https://sonarcloud.io"
     }
 }
